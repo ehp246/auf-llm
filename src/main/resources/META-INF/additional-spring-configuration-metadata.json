@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "me.ehp246.aufllm.deepseek.api-key",
+  "type": "java.lang.String",
+  "description": "The API Key from DeepSeek"
+}]}
